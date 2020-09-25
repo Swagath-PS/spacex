@@ -1,0 +1,31 @@
+.Btn{
+    user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    touch-action: manipulation;
+    cursor: pointer;
+    padding: 6px 12px;
+    margin-bottom: 10px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.42857143;
+    text-align: center;
+    /* white-space: nowrap; */
+    word-wrap: break-word;
+    vertical-align: middle;
+    width: 100%;
+
+  
+}
+
+.Btnselect{
+    color: #fff;
+    background-color: #81c281;
+    border-color:#81c281 ;
+}
+.BtnSelected{
+    color: #fff;
+    background-color: #228b22;
+    border-color: #228b22 ;
+}

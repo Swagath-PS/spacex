@@ -1,0 +1,21 @@
+.Filter{
+    background-color: #ffffff;
+    padding: 5px 10px 20px;
+    border-radius: 7px;
+    margin-bottom:  15px;
+}
+.FilterHeader{
+    font-weight: bold;
+    font-size: 18px;
+}
+.FilterContent{
+    font-size: 15px;
+}
+.hr{
+    border-top: 2px solid rgb(207, 199, 199);
+    width: 80%;
+}
+.filterset{
+    margin-top: 10px;
+    margin-bottom: 15px;
+}

@@ -1,0 +1,32 @@
+.ContentMain{
+    padding: 20px;
+    border-radius: 7px;
+    margin-bottom: 25px;
+    background-color: #ffffff;
+    min-height: 34.9em;
+    max-height: 34.9em;
+    overflow:auto;
+    
+}
+.ImageBox{
+    background-color: #e8e4e3;
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: 95% 100%;
+}
+.ItemName{
+    color: #475aa8;
+    font-size: 18px;
+    padding: 12px 0px 10px;
+    font-weight: bold;
+}
+.ContentKey{
+    color: #000000;
+    font-size: 17px;
+    font-weight: bold;
+    word-wrap: break-word;
+}
+.ContentValue{
+    color: #475aa8;
+    word-wrap: break-word;
+}
